@@ -33,3 +33,7 @@ touch newfile
 
 git add one line
 
+git add two line
+git add two line
+
+git diff HEAD -- readme.txt
