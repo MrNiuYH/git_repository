@@ -31,3 +31,5 @@ git add to stage
 git commit to master
 touch newfile
 
+git add one line
+
