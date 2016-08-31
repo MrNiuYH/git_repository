@@ -1,0 +1,12 @@
+git config --global user.name "name"
+git config --global user.email "my.email"
+
+mkdir git_repository
+cd git_repository
+git init
+
+vim readme.txt
+git add readme.txt
+git commit -m "add new file to git"
+
+
