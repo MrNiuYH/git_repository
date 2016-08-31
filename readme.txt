@@ -26,3 +26,8 @@ git test
 
 git reflog
 git reset --hard 34245
+
+git add to stage
+git commit to master
+touch newfile
+
