@@ -38,3 +38,4 @@ git add two line
 
 git diff HEAD -- readme.txt
 git checkout -- readme.txt
+git reset HEAD readme.txt && git checkout -- readme.txt
