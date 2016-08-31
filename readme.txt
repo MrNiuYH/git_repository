@@ -12,4 +12,6 @@ git commit -m "add new file to git"
 git status
 git diff
 
+git log
+git log --pretty=oneline
 
