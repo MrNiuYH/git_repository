@@ -24,3 +24,5 @@ git reset --hard 342454
 
 git test
 
+git reflog
+git reset --hard 34245
