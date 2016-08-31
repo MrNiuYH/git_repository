@@ -19,3 +19,4 @@ git reset --hard HEAD^
 git reset --hard HEAD^^
 git reset --hard HEAD~5
 
+git reset --hard 342454
