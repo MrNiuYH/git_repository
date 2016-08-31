@@ -9,4 +9,7 @@ vim readme.txt
 git add readme.txt
 git commit -m "add new file to git"
 
+git status
+git diff
+
 
