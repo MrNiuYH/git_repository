@@ -39,3 +39,9 @@ git add two line
 git diff HEAD -- readme.txt
 git checkout -- readme.txt
 git reset HEAD readme.txt && git checkout -- readme.txt
+
+git rm listen.txt
+git commit -m "remove listen.txt"
+git log --pretty=oneline
+git reset --hard HEAD^
+git checkout -- listen.txt
