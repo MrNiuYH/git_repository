@@ -45,3 +45,6 @@ git commit -m "remove listen.txt"
 git log --pretty=oneline
 git reset --hard HEAD^
 git checkout -- listen.txt
+
+git push -u origin master 
+git push origin master
