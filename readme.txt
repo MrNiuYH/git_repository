@@ -48,3 +48,7 @@ git checkout -- listen.txt
 
 git push -u origin master 
 git push origin master
+
+git remote add origin git@github.com:MrNiuYH/git_repository.git
+git push -u origin master
+git push origin master
