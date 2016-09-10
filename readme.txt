@@ -69,3 +69,12 @@ git log --pretty=oneline --graph
 
 git merge --no-ff -m "--no-ff is no fast forward"
 git log --pretty=oneline --graph
+
+git stash
+
+git stash apply     git stash drop
+git stash pop
+git stash list
+git stash apply stash@{0}
+
+
