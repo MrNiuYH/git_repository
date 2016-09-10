@@ -79,4 +79,6 @@ git stash pop
 git stash list
 git stash apply stash@{0}
 
-
+git tag name
+git tag -a name -m "name bescribe"
+git tag      select * from tag
