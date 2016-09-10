@@ -64,3 +64,5 @@ git branch -d dev
 
 add git master
 add test1
+
+git log --pretty=oneline --graph
