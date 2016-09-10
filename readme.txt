@@ -61,3 +61,5 @@ git branch
 
 git merge dev
 git branch -d dev
+
+add git master
